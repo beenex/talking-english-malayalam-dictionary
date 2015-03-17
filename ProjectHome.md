@@ -1,0 +1,1 @@
+# Download the latest version from http://talking-english-malayalam-dictionary.googlecode.com/files/Talking-English-Malayalam-Dictionary-1.2.deb and install using G-debi or Software-centre #
